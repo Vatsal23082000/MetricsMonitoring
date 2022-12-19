@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8bf96a30-de73-4386-af13-bfed08ce7190" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/azure/azureSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cool13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_aws.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_aws.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imp2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navbar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/try.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/try.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="26mZ4JQ79uXGAhdtNs1kHwg4XtD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/vatsal.gujarati/Desktop/MetricsMonitoring&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;tools.buf&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/howtodoinjava/rest" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.howtodoinjava.rest.azure" />
+      <recent name="azure" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.get_metrics_data">
+    <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
+      <option name="appName" />
+      <option name="appServicePlanName" />
+      <option name="appServicePlanResourceGroup" />
+      <option name="appSettingsKey" value="078bba87-ff82-4008-b341-f35ec242f017" />
+      <option name="artifact" />
+      <option name="autoPort" value="true" />
+      <option name="debugOptions" />
+      <option name="deployment" />
+      <option name="deploymentStagingDirectoryPath" />
+      <option name="funcPath" />
+      <option name="funcPort" value="0" />
+      <option name="hostJsonPath" />
+      <option name="insightsName" />
+      <option name="instrumentationKey" />
+      <option name="javaVersion" />
+      <option name="localSettingsJsonPath" />
+      <option name="moduleName" />
+      <option name="os" />
+      <option name="pricingTier" />
+      <option name="providerMap">
+        <map />
+      </option>
+      <option name="region" />
+      <option name="resourceGroup" />
+      <option name="stagingFolder" />
+      <option name="subscription" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DesCreateTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.howtodoinjava.rest.azure.DesCreateTest" />
+      <module name="DropWizardExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.howtodoinjava.rest.azure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DesCreateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="azure.DesCreateTest" />
+      <module name="DropWizardExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="azure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="get_metrics_data" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.howtodoinjava.rest.aws.get_metrics_data" />
+      <module name="DropWizardExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.howtodoinjava.rest.aws.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="get_metrics_name" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.howtodoinjava.rest.aws.get_metrics_name" />
+      <module name="DropWizardExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.howtodoinjava.rest.aws.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.get_metrics_data" />
+        <item itemvalue="Application.get_metrics_name" />
+        <item itemvalue="Application.DesCreateTest (1)" />
+        <item itemvalue="Application.DesCreateTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bf96a30-de73-4386-af13-bfed08ce7190" name="Changes" comment="" />
+      <created>1648030530671</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648030530671</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

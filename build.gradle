@@ -1,0 +1,17 @@
+apply plugin: 'java'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile group: 'com.howtodoinjava.demo', name: 'dropwizard-core', version: '1.0.0'
+}
+
+apply plugin: 'application'
+
+mainClassName = 'com.howtodoinjava.rest.App'
+
+run {
+    args 'server'
+}
